@@ -1,12 +1,3 @@
-[
-  {
-    "category": "",
-    "image_url": "",
-    "type_of_room": "",
-    "bed_type": "",
-    "no_of_persons": "",
-    "capacity": "",
-    "cost": "",
-    "booked": false
-  }
-]
+{
+  "posts": []
+}
